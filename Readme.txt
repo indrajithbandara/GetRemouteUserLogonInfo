@@ -1,3 +1,12 @@
+This is scripts for logging remoute logon in windows domain
+
+All fileslicensed by GPL version 2.0 or higer
+
+Author - Eugene Lityushkin 2015
+
+evgeny.lityushkin@gmail.com
+
+
 Набор скриптов предназначенный для регистрации событий интерактивного входа и выхода в домене Windows
 1.
 GetRemouteUserLogonInfo.ps1 - предназначен для регистрации фактов удалённого (RDP) входа пользователей
